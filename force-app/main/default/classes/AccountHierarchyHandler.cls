@@ -1,5 +1,5 @@
 public class AccountHierarchyHandler{
-    
+    //New changes related to Account hierarchy
     public static Map<Id, Integer> accountIdLevelMap=new Map<Id, Integer>();
     public static Map<Id, Account> accountDetailsMap=new Map<Id, Account>();
     public static Map<Id, list<Account>> parentChildLinkedListMap=new Map<Id, list<Account>>();
